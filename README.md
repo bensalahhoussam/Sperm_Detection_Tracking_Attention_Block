@@ -22,8 +22,9 @@ It keeps only the sperm cells in the frame and removes the background noise.
 
 This allowed the model to learn only the relevant semantic features, significantly improving generalization.
 
+## Network structure
 
-
+<img width="529" height="550" alt="image" src="https://github.com/user-attachments/assets/9a69fe64-9d3f-42f3-b526-3638263d2abd" />
 
 
 ## Results 
